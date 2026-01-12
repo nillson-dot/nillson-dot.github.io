@@ -2,3 +2,7 @@ baseURL = 'https://nillson-dot.github.io/'
 languageCode = 'zh-hant'
 title = 'Nillson Site'
 theme = 'paper'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
