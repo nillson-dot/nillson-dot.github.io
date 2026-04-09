@@ -21,7 +21,7 @@ theme = 'paper'
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'https://lh3.googleusercontent.com/gg/AIJ2gl_iCYtRTs2ohNqN3wIVYNA7aqqtWqq00YRaLISZVYU_nsuWolsP5gZxJdV9NqNCfqThtdodCLp1KBAeXuZA-oXdaIoNyIRdYob6VxpZY7WSIiiD-gvtkEghynxxQzYLFtqlbZ4gYpZUKyel_NuQHfDM2jBkmo5ZFNmfkmiUxO-hQTyTRYEY=s1024-rj-mp2'                 # gravatar email or image url
+  #  avatar = "https://lh3.googleusercontent.com/gg-dl/AOI_d_-5oDFOyJT3pYCzSC2YCQl1ZqGJsS70oDHxTElSoqwQwVLSilGR3BK4GPXHNk14Wrqj1FYJJXosL2GgPGTm9PISI7v6TiHUb70Rr54mLfFmEHiBhOihglh2pbcs3MqzjEadxe40K8ZZrc4twCb84CzHBMCZvit-RCVSm2eWLDDNg_pC=s1024-rj"
   name = 'Nillson'
   bio = 'Discover fresh context'
 
@@ -39,6 +39,3 @@ theme = 'paper'
 
   # RTL supprot
   direction = "ltr"                         # RTL support for Right-to-left languages
-
-[security]
-  enableInlineShortcodes = true
